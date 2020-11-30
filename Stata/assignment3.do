@@ -25,7 +25,7 @@ regress density shall, robust
 regress vio shall density, robust
 clear
 
-use "C:\Users\lsquick\OneDrive - Syracuse University\quant\college.dta"
+use "C:\Users\sparshk\OneDrive - Syracuse University\quant\college.dta"
 
 *Basic summary and data format information for data.*
 describe

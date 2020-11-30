@@ -64,7 +64,7 @@ xtset state
 xtreg vfrall beertax mlda18 mlda19 mlda20 dry vmiles yngdrv perinc i.year, fe
 
 clear
-use "C:\Users\lsquick\OneDrive - Syracuse University\quant\fastfood.dta"
+use "C:\Users\sparshk\OneDrive - Syracuse University\quant\fastfood.dta"
 
 *Create difference-in-differences regression.*
 gen AFTER_NJ = AFTER*NJ
