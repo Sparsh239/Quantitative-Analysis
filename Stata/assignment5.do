@@ -23,7 +23,7 @@ regress vfrall beertax mlda dry vmiles yngdrv perinc, robust
 
 *2. Use full data set.*
 clear
-use "C:\Users\lsquick\OneDrive - Syracuse University\quant\drunkdri.dta"
+use "C:\Users\sparshk\OneDrive - Syracuse University\quant\drunkdri.dta"
 
 *a. Full data regression with state control variables.*
 regress vfrall beertax mlda dry vmiles yngdrv perinc, robust
